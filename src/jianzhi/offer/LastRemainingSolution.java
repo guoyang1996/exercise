@@ -1,4 +1,6 @@
-public class LastRemaining_Solution {
+package jianzhi.offer;
+
+public class LastRemainingSolution {
     public int LastRemaining_Solution(int n, int m) {
         if(n<=0){
             return -1;
@@ -31,6 +33,6 @@ public class LastRemaining_Solution {
     }
 
     public static void main(String[] args) {
-        System.out.println(new LastRemaining_Solution().LastRemaining_Solution(5, 3));
+        System.out.println(new LastRemainingSolution().LastRemaining_Solution(5, 3));
     }
 }
