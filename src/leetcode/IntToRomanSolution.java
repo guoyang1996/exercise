@@ -1,6 +1,6 @@
 package leetcode;
 
-class IntToRomanSolution {
+public class IntToRomanSolution {
     public String intToRoman(int num) {
         String str = "";
         int m = num / 1000;
