@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode1to10;
 
 /**
  * 求最大面积问题

@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode1to10;
 
 /*
 * 公共类
