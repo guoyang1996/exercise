@@ -1,4 +1,4 @@
-package leetcode1to10;
+package leetcode1to15;
 
 public class MatchSolution {
     public boolean isMatch(String s, String p) {

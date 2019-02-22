@@ -1,4 +1,4 @@
-package leetcode1to10;
+package leetcode1to15;
 /*
  * 三数和为0
  * */

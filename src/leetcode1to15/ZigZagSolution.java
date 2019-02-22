@@ -1,4 +1,4 @@
-package leetcode1to10;
+package leetcode1to15;
 
 class ZigZagSolution {
     public String convert(String s, int numRows) {
