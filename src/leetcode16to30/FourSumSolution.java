@@ -28,7 +28,6 @@ public class FourSumSolution {
                             list.add(nums[high]);
                             result.add(list);
                         }
-
                         low++;
                     } else if (sum < target) {
                         low++;
