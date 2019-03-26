@@ -12,7 +12,6 @@ class LongestPalindromeSolution {
             for (; i - j >= 0 && i + j < s.length(); j++) {//点对称
                 if (s.charAt(i - j) == s.charAt(i + j)) {
                 } else {
-
                     break;
                 }
             }
